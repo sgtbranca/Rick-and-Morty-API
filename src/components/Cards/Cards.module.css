@@ -1,7 +1,6 @@
 .contaniner {
-    border: 1px solid black;
-    background-color: black;
-    border-radius: 10px;
+    border: 100px solid #A7CB54;
+    background-color: #A7CB54;
+    border-radius: 40px;
     margin: auto;
-
 }

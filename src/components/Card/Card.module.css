@@ -1,10 +1,10 @@
 .container {
-    border: 1px solid rgb(240,225,74);
-    background-color: rgb(151,206,76);
+    border: 1px solid #A7CB54;
+    background-color: #5CAD4A;
     border-radius: 10px;
     width: 180px;
     padding: 10px;
-    box-shadow: 0 0 10px black;
+    box-shadow: 0 0 10px #5CAD4A;
 }
 
 .image {
@@ -19,8 +19,8 @@
 }
 
 .buttonContainer button {
-    background-color: rgb(240,225,74);
-    color: rgb(218, 247, 0);
+    background-color: #FAFD7CFF;
+    color: #82491EFF;
     border: 0px;
     border-radius: 50px;
 
@@ -34,11 +34,11 @@
 .dataContainer h2 {
     margin: 2px;
     font-size: 25px;
-    color:rgb(68,40,29);
+    color:#82491EFF;
 }
 
 .dataContainer h4 {
     margin: 2px;
     font-size: 20px;
-    color:rgb(228,167,136);
+    color:#917C5DFF;
 }

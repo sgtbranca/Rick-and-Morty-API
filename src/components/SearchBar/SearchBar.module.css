@@ -1,6 +1,20 @@
 .container {
     display: flex;
     margin: auto;
-    width: 50%;
+    width: 20%;
     margin-top: 10px;
+}
+
+.container input {
+    border-radius: 5px;
+    height: 20px;
+    border-color: #82491EFF;
+}
+
+.container button {
+    border-radius: 5px;
+    height: 20px;
+    background-color: #FAFD7CFF;
+    color: #82491EFF;
+    font-size: 10px;
 }
